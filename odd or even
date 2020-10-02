@@ -12,3 +12,5 @@ int main()
         printf("%d is odd ", number);
     return 0;
 }
+
+//how to find whether a no. is odd or even
