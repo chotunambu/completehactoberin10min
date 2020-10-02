@@ -5,3 +5,5 @@ int main()
    printf("Hello, World!");
    return 0;
 }
+
+//how you print "hello world"
