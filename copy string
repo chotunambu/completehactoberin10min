@@ -12,3 +12,8 @@ int main()
     printf("String s2: %s", s2);
    
 }
+
+
+
+
+//how you copy string
